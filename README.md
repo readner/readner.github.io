@@ -1,5 +1,10 @@
 # readner.github.io
-Vno-jekyll, 一个jekyll blog的主题
-Vno-jekyll, just another jekyll theme
+<!DOCTYPE html>
+<html>
+    <head>
 
-fork form yanshinian/vno-jekyll
+    </head>
+    <body>
+    <p>hello, my first page!</p>
+    </body>
+</html
